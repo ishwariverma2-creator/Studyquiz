@@ -1,1 +1,1 @@
-GitHub Pages: index.html को repository में upload करें और Settings → Pages से Deploy from branch चुनें।
+इस ZIP में उसी उपलब्ध PDF के प्रश्न हैं। GitHub Pages के लिए index.html अपलोड करें।
