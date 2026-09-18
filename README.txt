@@ -1,23 +1,5 @@
-कक्षा 8 विषयवार जलवायु-मौसम क्विज
-====================================
-इस ZIP में एक ही index.html के अंदर अलग-अलग विषय की clickable bars हैं।
-हर विषय में 50 प्रश्न हैं।
-
-विषय:
-1. जलवायु
-2. मौसम
-3. जलचक्र
-4. महासागरीय चक्र
-5. नदियाँ व जल प्रवाह
-6. अपरदन-निक्षेपण-अपक्षय
-7. हिमनद व पर्वतीय जल
-8. ज्वार-भाटा व समुद्री धाराएँ
-9. भौगोलिक-ऐतिहासिक-सांस्कृतिक स्रोत
-10. मानचित्र व स्रोत तुलना
-11. जल संरक्षण व प्राकृतिक प्रक्रियाएँ
-
-कुल: 550 प्रश्न।
-
-GitHub Pages:
-index.html, style.css को repository में upload/replace करें।
-मुख्य index.html अकेले भी काम करेगा क्योंकि प्रश्न उसके अंदर embedded हैं।
+UTET QUESTION HARD SERIES
+7 subjects × 100 questions = 700 practice questions.
+Subject-wise clickable interface; correct green, wrong red; concept below each answered question.
+Original practice questions inspired by official UTET syllabus/paper pattern; not copied verbatim from past papers.
+Official reference: UBSE UTET syllabus and past UTET booklets/answer keys.
